@@ -1,4 +1,4 @@
-![Azl logo](/azl.png)
+<img src="azl.png" width="200" height="200">
 
 # Azl editor
 > A small, simple, command line based text-editor made simmilar to vi.
