@@ -1,20 +1,8 @@
-
-<a name="readme-top"></a>
-
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
-
-
-
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
   <a href="https://github.com/Tristan-Brulotte/Azl">
-    <img src="azl.png" alt="Logo" width="80" height="80">
+    <img src="azl.png" alt="Logo" width="150" height="150">
   </a>
 
 <h3 align="center">project_title</h3>
