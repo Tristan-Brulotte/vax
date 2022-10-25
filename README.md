@@ -1,5 +1,5 @@
 # Azl editor
-**A small, simple, command line based text-editor made simmilar to vi.**
+**A small and simple text-editor made simmilar to vi.**
 
 ![](images/screenshot.png)
 
