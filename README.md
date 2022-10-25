@@ -1,11 +1,7 @@
-<p align="center">
-   <img src="azl.png" width="200" height="200">
-</p>
-
 # Azl editor
-> A small, simple, command line based text-editor made simmilar to vi.
+**A small, simple, command line based text-editor made simmilar to vi.**
 
-![](header.png)
+![](images/screenshot.png)
 
 ## Installation
 
