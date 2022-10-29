@@ -1,4 +1,4 @@
-# Azl editor
+# mcro editor
 **A small and simple cmd text-editor.**
 
 ![](images/screenshot.png)
@@ -27,7 +27,7 @@ wip
 
 Distributed under the MIT license. See ``LICENSE`` for more information.
 
-[https://github.com/Tristan-Brulotte/Azl](https://github.com/Tristan-Brulotte/Azl)
+[https://github.com/Tristan-Brulotte/mcro](https://github.com/Tristan-Brulotte/Azl)
 
 <!-- Markdown link & img dfn's -->
 [npm-image]: https://img.shields.io/npm/v/datadog-metrics.svg?style=flat-square
