@@ -27,4 +27,4 @@ wip
 
 Distributed under the MIT license. See ``LICENSE`` for more information.
 
-[https://github.com/Tristan-Brulotte/micro](https://github.com/Tristan-Brulotte/micro)
+[https://github.com/Tristan-Brulotte/vax](https://github.com/Tristan-Brulotte/vax)
