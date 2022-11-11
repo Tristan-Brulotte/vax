@@ -1,4 +1,4 @@
-# micro editor
+# vax editor
 **A small and simple cmd text-editor.**
 *Designed as a C# equivalent to vi on windows*
 ![screenshot.png ](screenshot.png)
