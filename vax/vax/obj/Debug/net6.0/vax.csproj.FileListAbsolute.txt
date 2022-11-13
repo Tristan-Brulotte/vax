@@ -1,0 +1,15 @@
+C:\Users\trist\source\repos\vax\vax\bin\Debug\net6.0\vax.exe
+C:\Users\trist\source\repos\vax\vax\bin\Debug\net6.0\vax.deps.json
+C:\Users\trist\source\repos\vax\vax\bin\Debug\net6.0\vax.runtimeconfig.json
+C:\Users\trist\source\repos\vax\vax\bin\Debug\net6.0\vax.dll
+C:\Users\trist\source\repos\vax\vax\bin\Debug\net6.0\vax.pdb
+C:\Users\trist\source\repos\vax\vax\obj\Debug\net6.0\vax.csproj.AssemblyReference.cache
+C:\Users\trist\source\repos\vax\vax\obj\Debug\net6.0\vax.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\trist\source\repos\vax\vax\obj\Debug\net6.0\vax.AssemblyInfoInputs.cache
+C:\Users\trist\source\repos\vax\vax\obj\Debug\net6.0\vax.AssemblyInfo.cs
+C:\Users\trist\source\repos\vax\vax\obj\Debug\net6.0\vax.csproj.CoreCompileInputs.cache
+C:\Users\trist\source\repos\vax\vax\obj\Debug\net6.0\vax.dll
+C:\Users\trist\source\repos\vax\vax\obj\Debug\net6.0\refint\vax.dll
+C:\Users\trist\source\repos\vax\vax\obj\Debug\net6.0\vax.pdb
+C:\Users\trist\source\repos\vax\vax\obj\Debug\net6.0\vax.genruntimeconfig.cache
+C:\Users\trist\source\repos\vax\vax\obj\Debug\net6.0\ref\vax.dll
