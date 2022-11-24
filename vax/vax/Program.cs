@@ -6,8 +6,7 @@ using System.IO;
  *     \ \ / /_\  \ \/ /  ___  / __|_ _| \| |/ __| |  | __| | __|_ _| |  | __| |_   _| __\ \/ /_   _| | __|   \_ _|_   _/ _ \| _ \
  *      \ V / _ \  >  <  |___| \__ \| || .` | (_ | |__| _|  | _| | || |__| _|    | | | _| >  <  | |   | _|| |) | |  | || (_) |   /
  *       \_/_/ \_\/_/\_\       |___/___|_|\_|\___|____|___| |_| |___|____|___|   |_| |___/_/\_\ |_|   |___|___/___| |_| \___/|_|_\
- *     WRITTEN BY TRISTAN BRULOTTE - NOV 11, 2022         
- *     personal: build with dotnet build --nologo --self-contained true --output C:\Users\trist\Documents\code\cSharp\vax\bin\release                                                                                                             
+ *     WRITTEN BY TRISTAN BRULOTTE - NOV 11, 2022                                                                                                                   
  */
 
 namespace vax
